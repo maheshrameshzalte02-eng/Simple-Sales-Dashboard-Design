@@ -1,0 +1,7 @@
+
+Superstore Sales Insights:
+
+1. Highest sales month: 2024-06
+2. Region with highest total sales: Central
+3. Best performing category: Technology
+4. Total yearly sales: 205154.73
